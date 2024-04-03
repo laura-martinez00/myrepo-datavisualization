@@ -3,3 +3,5 @@ The reference plot can be found on the following link: https://www.nytimes.com/i
 
 My final article with further references can be accessed here: 
 https://csslab.uc3m.es/dataviz/projects/2023/100408925/
+
+I strongly suggest to follow the previous link to visualize the tutorial of the creation of the map
